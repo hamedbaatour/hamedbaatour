@@ -1,4 +1,3 @@
-___
 ### 👋 Hi there, I'm Hamed 
 ___
 
@@ -6,7 +5,9 @@ ___
 - Currenlty boostraping <a href="intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
 - I'm from Tunisia and living now in Doha, Qatar `GMT+3`
 
-___
+
+
+
 ### ✍ My Most Popular Articles 
 ___
 
@@ -15,7 +16,8 @@ ___
 ###### 1.5K claps, 60K views
 <a target="_blank" href="https://hamedbaatour.medium.com/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/0" alt="Build A Weather App Part II"></a>
 
-___
+
+
 ### ⚡ Quick Facts About Me
 ___
 
@@ -32,7 +34,9 @@ ___
   - I type at around 70-80wpm
   - I can speak arabic/english/french and I am currently learning german/spanish/italian
 
-___
+
+
+
 ### 📫 Want To Reach Out?
 ___
 
@@ -40,7 +44,9 @@ ___
 
 - My Work Email <a href="mailto:hamedbaatour@gmail.com">hamed@intab.io</a>
 
-___
+
+
+
 ### 🖥 Tech I Work With
 ___
 
@@ -50,7 +56,9 @@ ___
 
 **🚢 I Ship With:** Firebase, Netlify, AWS/GCP...
 
-___
+
+
+
 ### 📈 Stats
 ___
 
