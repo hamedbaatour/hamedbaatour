@@ -32,7 +32,7 @@ ___
 
 - **🙋‍♂️ Personal**
 
-  - I'm an INTJ. but I never met one, If you are an INTJ too it would be intersetting to have a chat :)   
+  - I'm an <a href="https://www.16personalities.com/intj-personality">INTJ</a>. but I never met one, If you are an INTJ too it would be intersetting to have a chat :)   
   - I'm super strightforward and I hate BS. I can smell fakeness and lies a mile away.
   - I like learning languages, photography, tennis and motorsport
   - I type at around 70-80wpm
