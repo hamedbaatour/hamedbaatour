@@ -1,5 +1,3 @@
-<br>
-
 ### 👋 Hi there, I'm Hamed 
 ___
 
@@ -7,7 +5,6 @@ ___
 - Currenlty boostraping <a href="intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
 - I'm from Tunisia and living now in Doha, Qatar `GMT+3`
 
-<br>
 
 ### ✍ My Most Popular Articles 
 ___
@@ -17,7 +14,6 @@ ___
 ###### 1.5K claps, 60K views
 <a target="_blank" href="https://hamedbaatour.medium.com/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/0" alt="Build A Weather App Part II"></a>
 
-<br>
 
 ### ⚡ Quick Facts About Me
 ___
@@ -27,9 +23,6 @@ ___
   - 👷‍♀️ Currently building a browser extension for developers using Svelte.js (<a href="https://intab.io">InTab</a>)
   - 🚀 I love designing, coding and shiping products (<a href="https://newschatters-landing.web.app">Chatnews</a>, <a href="https://minimus-weather.web.app">Minimus</a>...)
 
-  
-<br>
-
 - **🙋‍♂️ Personal**
 
   - I'm an <a href="https://www.16personalities.com/intj-personality">INTJ</a>. but I never met one, If you are an INTJ too it would be intersetting to have a chat :)   
@@ -38,17 +31,12 @@ ___
   - I type at around 70-80wpm
   - I can speak arabic/english/french and I am currently learning german/spanish/italian
 
-<br>
-
 ### 📫 Want To Reach Out?
 ___
 
 - My Personal Email <a href="mailto:hamedbaatour@gmail.com">hamedbaatour@gmail.com</a>
 
 - My Work Email <a href="mailto:hamedbaatour@gmail.com">hamed@intab.io</a>
-
-
-<br>
 
 
 ### 🖥 Tech I Work With
@@ -60,12 +48,10 @@ ___
 
 **🚢 I Ship With:** Firebase, Netlify, AWS/GCP...
 
-<br>
 
 ### 📈 Stats
 ___
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=hamedbaatour&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/hamedbaatour?tab=repositories)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedbaatour&layout=compact&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/hamedbaatour?tab=repositories)
+&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedbaatour&layout=compact&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/hamedbaatour?tab=repositories)
 
