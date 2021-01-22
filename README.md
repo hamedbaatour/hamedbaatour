@@ -2,7 +2,7 @@
 ___
 
 - I'm a self taught <u>full stack developer & designer</u><br>
-- Currenlty boostraping <a href="intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
+- Currenlty boostraping <a target="_blank" href="intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
 - I'm from Tunisia and living now in Doha, Qatar `GMT+3`
 
 
@@ -23,12 +23,12 @@ ___
 
 - **💻 Work**
 
-  - 👷‍♀️ Currently building a browser extension for developers using Svelte.js (<a href="https://intab.io">InTab</a>)
-  - 🚀 I love designing, coding and shiping products (<a href="https://newschatters-landing.web.app">Chatnews</a>, <a href="https://minimus-weather.web.app">Minimus</a>...)
+  - 👷‍♀️ Currently building a browser extension for developers using Svelte.js (<a target="_blank" href="https://intab.io">InTab</a>)
+  - 🚀 I love designing, coding and shiping products (<a target="_blank" href="https://newschatters-landing.web.app">Chatnews</a>, <a target="_blank" href="https://minimus-weather.web.app">Minimus</a>...)
 
 - **🙋‍♂️ Personal**
 
-  - I'm an <a href="https://www.16personalities.com/intj-personality">INTJ</a>. but I never met one, If you are an INTJ too it would be intersetting to have a chat :)   
+  - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>. but I never met one, If you are an INTJ too it would be intersetting to have a chat :)   
   - I'm super strightforward and I hate BS. I can smell fakeness and lies a mile away.
   - I like learning languages, photography, tennis and motorsport
   - I type at around 70-80wpm
@@ -40,9 +40,9 @@ ___
 ### 📫 Want To Reach Out?
 ___
 
-- My Personal Email <a href="mailto:hamedbaatour@gmail.com">hamedbaatour@gmail.com</a>
+- My Personal Email <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamedbaatour@gmail.com</a>
 
-- My Work Email <a href="mailto:hamedbaatour@gmail.com">hamed@intab.io</a>
+- My Work Email <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamed@intab.io</a>
 
 
 
