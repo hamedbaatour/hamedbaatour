@@ -12,9 +12,9 @@ ___
 ___
 
 ###### 40K claps, 671K views
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/1" alt="Recent Article 2"></a>
+<a target="_blank" href="https://hamedbaatour.medium.com/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/1" alt="Build A Weather App Part I"></a>
 ###### 1.5K claps, 60K views
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/0" alt="Recent Article 2"></a>
+<a target="_blank" href="https://hamedbaatour.medium.com/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamedbaatour/0" alt="Build A Weather App Part II"></a>
 
 <br><br>
 
