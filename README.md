@@ -53,5 +53,5 @@ ___
 ___
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=hamedbaatour&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/hamedbaatour?tab=repositories)
-&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedbaatour&layout=compact&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/hamedbaatour?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedbaatour&layout=compact&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/hamedbaatour?tab=repositories)
 
