@@ -5,7 +5,7 @@ ___
 
 - I'm a self taught <u>full stack developer & designer</u><br>
 - Currenlty boostraping <a href="intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
-- I'm from Tunisia / living now in Doha, Qatar `GMT+3`
+- I'm from Tunisia and living now in Doha, Qatar `GMT+3`
 
 <br>
 
@@ -65,12 +65,7 @@ ___
 ### 📈 Stats
 ___
 
-**Github**
-
 [![My Stats](https://github-readme-stats.vercel.app/api?username=hamedbaatour&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/hamedbaatour?tab=repositories)
 &nbsp;
-
-**Stackoverflow**
-
-<a href="https://stackoverflow.com/users/2602962/hamed-baatour"><img src="https://stackoverflow.com/users/flair/2602962.png?theme=clean" width="208" height="58" alt="Hamed Baatour" title="Stack Overflow, Q&amp; Profile info"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedbaatour&layout=compact&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/hamedbaatour?tab=repositories)
 
