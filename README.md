@@ -25,7 +25,7 @@ ___
 
 - **💻 Work**
 
-  - 👷‍♀️ Currently building a browser extension for developers using Svelte.js ( <a href="https://intab.io">InTab</a> )
+  - 👷‍♀️ Currently building a browser extension for developers using Svelte.js (<a href="https://intab.io">InTab</a>)
   - 🚀 I love designing, coding and shiping products (<a href="https://newschatters-landing.web.app">Chatnews</a>, <a href="https://minimus-weather.web.app">Minimus</a>...)
 
   
@@ -56,41 +56,21 @@ ___
 ### 🖥 Tech I Work With
 ___
 
-**🏆 Primary**
+**🏆 Primary:** Vue, Angular, Svelete
 
-- Vue
-- Angular
-- Svelete
+**🥈 Secondary:** React, MangoDB, GragphQL, Python...
 
-**🥈 Secondary**
-
-- React
-- MangoDB
-- GragphQL
-- Jamstack
-- Python
-...
-
-
-**🚢 I Ship With**
-
-- Firebase
-- Netlify
-- AWS/GCP
+**🚢 I Ship With:** Firebase, Netlify, AWS/GCP...
 
 <br>
 
-
-
-### Stats
+### 📈 Stats
 ___
 
 **Github**
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=hamedbaatour&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/hamedbaatour?tab=repositories)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedbaatour&layout=compact&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/hamedbaatour?tab=repositories)
-
 
 **Stackoverflow**
 
