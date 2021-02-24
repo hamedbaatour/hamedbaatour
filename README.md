@@ -1,4 +1,5 @@
-### 👋 Hi there, I'm Hamed 
+<h3> <a href="#"><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></a> Hi there, I'm Hamed</h3>
+
 ___
 
 - I'm a self taught <u>full stack developer & designer</u><br>
