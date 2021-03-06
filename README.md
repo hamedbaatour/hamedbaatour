@@ -3,7 +3,7 @@
 ___
 
 - I'm a self taught <u>full stack developer & designer</u><br>
-- Currenlty boostraping <a target="_blank" href="intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
+- Currenlty boostraping <a target="_blank" href="https://intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
 - I'm from Tunisia and living now in Doha, Qatar `GMT+3`
 
 
@@ -29,7 +29,7 @@ ___
 
 - **🙋‍♂️ Personal**
 
-  - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>. but I never met one, If you are an INTJ too it would be intersetting to have a chat :)   
+  - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>
   - I'm super strightforward and I hate BS. I can smell fakeness and lies a mile away.
   - I like learning languages, photography, tennis and motorsport
   - I type at around 70-80wpm
