@@ -2,8 +2,8 @@
 
 ___
 
-- I'm a self taught <u>full stack developer & designer</u><br>
-- Currenlty boostraping <a target="_blank" href="https://intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
+- I'm a self taught <u>developer & designer</u><br>
+- Boostraping <a target="_blank" href="https://intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
 - I'm from Tunisia and living now in Doha, Qatar `GMT+3`
 
 
@@ -51,11 +51,9 @@ ___
 ### 🖥 Tech I Work With
 ___
 
-**🏆 Primary:** Vue, Angular, Svelete
+**🏆 I Build With:** Vue, Angular, Svelete...
 
-**🥈 Secondary:** React, MangoDB, GragphQL, Python...
-
-**🚢 I Ship With:** Firebase, Netlify, AWS/GCP...
+**🚢 I Ship With:** Firebase, Netlify, GCP/AWS...
 
 
 
