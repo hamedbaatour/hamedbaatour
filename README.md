@@ -2,7 +2,7 @@
 
 ___
 
-- I'm a self taught <u>developer & designer</u><br>
+- I'm full stack developer & designer<br>
 - Boostraping <a target="_blank" href="https://intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
 - I'm from Tunisia and living now in Doha, Qatar `GMT+3`
 
