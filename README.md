@@ -25,15 +25,14 @@ ___
 - **💻 Work**
 
   - 👷‍♀️ Currently building a browser extension for developers using Svelte.js (<a target="_blank" href="https://intab.io">InTab</a>)
-  - 🚀 I love designing, coding and shiping products (<a target="_blank" href="https://newschatters-landing.web.app">Chatnews</a>, <a target="_blank" href="https://minimus-weather.web.app">Minimus</a>...)
+  - 🚀 I love designing, coding and shiping products
 
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>
-  - I'm super strightforward and I hate BS. I can smell fakeness and lies a mile away.
-  - I like learning languages, photography, tennis and motorsport
+  - I like learning languages, playing tennis and watching motorsport
   - I type at around 70-80wpm
-  - I can speak arabic/english/french and I am currently learning german/spanish/italian
+  - I can speak arabic/english/french & I am currently learning german/spanish/italian
 
 
 
@@ -53,7 +52,7 @@ ___
 
 **🏆 I Build With:** Vue, Angular, Svelete...
 
-**🚢 I Ship With:** Firebase, Netlify, GCP/AWS...
+**🚢 I Ship With:** Cloudflare, Firebase, Netlify, GCP/AWS...
 
 
 
