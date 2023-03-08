@@ -40,9 +40,9 @@ ___
 ### 📫 Want To Reach Out?
 ___
 
-- My Personal Email <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamedbaatour@gmail.com</a>
-
 - My Work Email <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamed@intab.io</a>
+
+- My Personal Email <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamedbaatour@gmail.com</a>
 
 
 
