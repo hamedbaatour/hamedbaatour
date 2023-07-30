@@ -2,9 +2,9 @@
 
 ___
 
-- I'm full stack developer & designer<br>
-- Boostraping <a target="_blank" href="https://intab.io">intab.io</a> to help developers code CSS faster without leaving their browsers <br>
-- I'm from Tunisia and living now in Doha, Qatar `GMT+3`
+- I'm a full stack developer & designer<br>
+- Bootstrapping <a target="_blank" href="https://intab.io">intab.io</a>
+- I'm from Tunisia and now living in Doha, Qatar `GMT+3`
 
 
 
@@ -19,20 +19,20 @@ ___
 
 
 
-### ⚡ Quick Facts About Me
+### ⚡ Quick Facts
 ___
 
 - **💻 Work**
 
-  - 👷‍♀️ Currently building a browser extension for developers using Svelte.js (<a target="_blank" href="https://intab.io">InTab</a>)
-  - 🚀 I love designing, coding and shiping products
+  - 👷‍♀️ I work mostly on web front-end projects and browsers extensions
+  - 🚀 I design, code and ship products end to end
 
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>
-  - I like learning languages, playing tennis and watching motorsport
+  - I love language learning, tennis, and motorsport
   - I type at around 70-80wpm
-  - I can speak arabic/english/french & I am currently learning german/spanish/italian
+  - I can speak Arabic/English/French & I'm currently learning Spanish/Italian
 
 
 
@@ -47,10 +47,10 @@ ___
 
 
 
-### 🖥 Tech I Work With
+### 🖥 Tech I Use
 ___
 
-**🏆 I Build With:** Vue, Angular, Svelete...
+**🏆 I Build With:** Vue, Svelete, Angular, React...
 
 **🚢 I Ship With:** Cloudflare, Firebase, Netlify, GCP/AWS...
 
