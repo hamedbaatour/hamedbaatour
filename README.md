@@ -3,7 +3,6 @@
 ___
 
 - I'm a full stack developer & designer<br>
-- Bootstrapping <a target="_blank" href="https://intab.io">intab.io</a>
 - I'm from Tunisia and now living in Doha, Qatar `GMT+3`
 
 
@@ -30,7 +29,7 @@ ___
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>
-  - I love language learning, tennis, and motorsport
+  - I love tennis and motorsport
   - I type at around 70-80wpm
   - I can speak Arabic/English/French & I'm currently learning Spanish/Italian
 
