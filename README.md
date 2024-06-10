@@ -8,7 +8,7 @@ ___
 
 
 
-### ✍ My Most Popular Articles 
+### ✍ My most popular articles 
 ___
 
 ###### 40K claps, 671K views
@@ -18,40 +18,39 @@ ___
 
 
 
-### ⚡ Quick Facts
+### ⚡ Quick facts
 ___
 
 - **💻 Work**
 
-  - 👷‍♀️ I work mostly on web front-end projects and browsers extensions
+  - 👷‍♀️ I work mostly on web front-end projects & browsers extensions
+  - ✅ Vue is my framework of choice
   - 🚀 I design, code and ship products end to end
 
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>
-  - I love tennis and motorsport
   - I type at around 70-80wpm
-  - I can speak Arabic/English/French & I'm currently learning Spanish/Italian
+  - I love playing tennis and watching F1
+  - I can speak arabic, english, french. I'm currently learning spanish and italian
 
 
 
 
-### 📫 Want To Reach Out?
+### 📫 Want to reach out?
 ___
 
-- My Work Email <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamed@intab.io</a>
-
-- My Personal Email <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamedbaatour@gmail.com</a>
+- send me an email at <a target="_blank" href="mailto:hamedbaatour@gmail.com">hamedbaatour@gmail.com</a>
 
 
 
 
-### 🖥 Tech I Use
+### 🖥 Tech I use
 ___
 
-**🏆 I Build With:** Vue, Svelete, Angular, React...
+**🏆 I build with:** Vue, Svelete, Angular, React...
 
-**🚢 I Ship With:** Cloudflare, Firebase, Netlify, GCP/AWS...
+**🚢 I ship with:** Cloudflare, Firebase, Netlify, GCP/AWS...
 
 
 
